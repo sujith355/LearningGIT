@@ -1,3 +1,3 @@
 # LearningGIT
 
-by -sujith sk
+by -sujith s kanchan
